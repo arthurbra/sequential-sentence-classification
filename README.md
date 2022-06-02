@@ -2,8 +2,8 @@
 This repository contains the source code for the paper
 
 Arthur Brack, Anett Hoppe, Pascal Buschermöhle, Ralph Ewerth: _Cross-Domain Multi-Task Learning for Sequential Sentence
-Classification in Research Papers_, accepted for publication at the Joint Conference on Digital Libraries (JCDL), 2022
-Preprint available at: https://arxiv.org/pdf/2102.06008.pdf
+Classification in Research Papers_, accepted for publication at the Joint Conference on Digital Libraries (JCDL), 2022,
+preprint available at: https://arxiv.org/pdf/2102.06008.pdf
  
 
 # Installation
