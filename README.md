@@ -1,7 +1,9 @@
 # Sequential Sentence Classification in Research Papers using Cross-Domain Multi-Task Learning
 This repository contains the source code for the paper
 
-_Arthur Brack, Anett Hoppe, Pascal Buschermöhle, Ralph Ewerth (2021): Sequential Sentence Classification in Research Papers using Cross-Domain Multi-Task Learning_
+_Arthur Brack, Anett Hoppe, Pascal Buschermöhle, Ralph Ewerth: Cross-Domain Multi-Task Learning for Sequential Sentence
+Classification in Research Papers_, accepted for publication at the Joint Conference on Digital Libraris (JCDL), 2022
+Preprint available at: https://arxiv.org/pdf/2102.06008.pdf
  
 
 # Installation
